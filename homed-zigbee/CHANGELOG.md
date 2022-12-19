@@ -1,1 +1,1 @@
-See https://github.com/u236/homed-service-zigbee
+See https://github.com/u236/homed-service-zigbee/tags
