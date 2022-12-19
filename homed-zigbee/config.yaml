@@ -12,4 +12,4 @@ startup: application
 map:
   - config:rw
 uart: true
-image: docker.u236.org/homed-zigbee
+image: "docker.u236.org/homed-zigbee"
